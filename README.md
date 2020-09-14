@@ -1,3 +1,10 @@
+##Приложение создано с помощью команды
+ ```vkma app-name --template typescript```
+
+##Используемая библиотека для роутинга 
+https://github.com/HappySanta/router 
+#
+
 [<img width="134" src="https://vk.com/images/apps/mini_apps/vk_mini_apps_logo.svg">](https://vk.com/services)
 
 # Create VK Mini App [![npm][npm]][npm-url] [![deps][deps]][deps-url]
