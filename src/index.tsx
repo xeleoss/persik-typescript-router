@@ -9,7 +9,6 @@ import { Page, Router, RouterContext, VIEW_MAIN } from '@happysanta/router';
 import { PanelEnum } from './enums/PanelEnum';
 import { ConfigProvider } from '@vkontakte/vkui';
 
-
 const routes = {
     [PageEnum.Main]: new Page(PanelEnum.Main, VIEW_MAIN),
     [PageEnum.Persik]: new Page(PanelEnum.Persik, VIEW_MAIN),
