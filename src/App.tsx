@@ -6,8 +6,6 @@ import Persik from './panels/Persik';
 import { useLocation, VIEW_MAIN } from '@happysanta/router';
 import { PanelEnum } from './enums/PanelEnum';
 
-
-
 const App = () => {
 	const location = useLocation();
 
